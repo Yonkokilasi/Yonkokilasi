@@ -22,9 +22,9 @@ Let's connect to explore opportunities for leveraging my skills and experience i
 
 ## 🌐 Socials:
 <p align="left">
-<!-- <a href="https://twitter.com/snowthetechie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="snow" height="30" width="40" /></a> -->
-<a href="https://www.linkedin.com/in/joseph-kilasi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="snow" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/8490117/yonko-kilasi" target="blank"><img align="center" src="https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.svg" alt="@snowthetechie" height="30" width="40" color="red" /></a>
+
+<a href="https://www.linkedin.com/in/joseph-kilasi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yonkokilasi" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/8490117/yonko-kilasi" target="blank"><img align="center" src="https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.svg" alt="@yonkokilasi" /></a>
 </p>
 
 ![](https://raw.githubusercontent.com/Subhampreet/Subhampreet/master/media/header_.png)
@@ -43,4 +43,4 @@ Let's connect to explore opportunities for leveraging my skills and experience i
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YonkoKilasi&" alt="Yonko" /></p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SnowJr&label=Profile%20Views&color=6&icon=2&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=yonkokilasi&label=Profile%20Views&color=2&icon=1&pretty=true)](https://visitcount.itsvg.in)
