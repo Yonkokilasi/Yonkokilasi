@@ -31,6 +31,7 @@ Let's connect to explore opportunities for leveraging my skills and experience i
 
 # 📊 GitHub Stats:
 ![Yonko's GitHub stats](https://github-readme-stats.vercel.app/api?username=yonkokilasi&show_icons=true&theme=radical)
+[![Yonko's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yonkokilasi)](https://github.com/Yonkokilasi/Yonkokilasi)
 
 
 ## 🏆 GitHub Trophies
