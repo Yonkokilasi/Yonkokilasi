@@ -24,7 +24,7 @@ Let's connect to explore opportunities for leveraging my skills and experience i
 <p align="left">
 
 <a href="https://www.linkedin.com/in/joseph-kilasi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yonkokilasi" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/8490117/yonko-kilasi" target="blank"><img align="center" src="https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.svg" alt="@yonkokilasi" /></a>
+<a href="https://stackoverflow.com/users/8490117/yonko-kilasi"  height="60" width="60" target="blank"><img align="center" src="https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.svg" alt="@yonkokilasi" /></a>
 </p>
 
 ![](https://raw.githubusercontent.com/Subhampreet/Subhampreet/master/media/header_.png)
